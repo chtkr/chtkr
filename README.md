@@ -1,6 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Cahit</h1>
-<h3 align="center">A junior data engineer</h3>
+<h1 align="center">Hi 👋, I'm Cahit, junior data engineer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chtkr&label=Profile%20views&color=0e75b6&style=flat" alt="chtkr" /> </p>
 
